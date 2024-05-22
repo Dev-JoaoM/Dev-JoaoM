@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/Dev-JoaoM">
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Dev-JoaoM&theme=github-dark-blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=Blue&title_color=blue&text_color=FFF"/>
-  <img height="150em" src="https://streak-stats.demolab.com/?user=Dev-JoaoM&theme=github-dark-blue&background=000&border=30A3DC&dates=FFF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Dev-JoaoM&theme=github-dark-blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=Blue&title_color=blue&text_color=FFF"/>
+  <img height="165em" src="https://streak-stats.demolab.com/?user=Dev-JoaoM&theme=github-dark-blue&background=000&border=30A3DC&dates=FFF"/>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEV-JoaoM&layout=compact&bg_color=000&border_color=30A3DC&title_color=blue&text_color=FFF)](https://github.com/Dev-JoaoM)
 
