@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 <div>
   
-  <img alt="Readme Stats" height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEV-JoaoM&layout=compact&bg_color=000&border_color=30A3DC&title_color=blue&text_color=FFF"/>
-  <img alt="Streak Stats" height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-JoaoM&theme=github_dark"/>
+  <img alt="Readme Stats" height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DEV-JoaoM&layout=compact&bg_color=000&border_color=30A3DC&title_color=blue&text_color=FFF"/>
+  <img alt="Streak Stats" height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-JoaoM&theme=github_dark"/>
 
 </div>
 
