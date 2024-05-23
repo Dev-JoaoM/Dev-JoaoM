@@ -43,10 +43,11 @@ Here are some ideas to get you started:
 
 <div>
    <h2>Repositórios</h2>
-  <a href="https://github.com/Dev-JoaoM">
-    
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-JoaoM&repo=Janos-Park-Project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-JoaoM&repo=Cursos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF"/>
+      
+  [<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-JoaoM&repo=Janos-Park-Project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF"/>](https://github.com/Dev-JoaoM/Janos-Park-Project)
+  [<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-JoaoM&repo=Versionamento-com-Git-e-Github&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF"/>](https://github.com/Dev-JoaoM/Versionamento-com-Git-e-Github)
+  [<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-JoaoM&repo=Cursos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF"/>](https://github.com/Dev-JoaoM/Cursos)
+  
 
 
 
