@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <br><br>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0528F2&size=40&center=true&vCenter=true&width=1000&lines=Hello+there👋🏾,+sou+o+João+Marcos;Bem+vindo+ao+meu+perfil!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0528F2&size=40&center=true&vCenter=true&width=1000&lines=Hello+there🖖🏾,+sou+o+João+Marcos;Bem+vindo+ao+meu+perfil!)
 
 <h2>Sobre mim</h2>
 
@@ -47,9 +47,6 @@ Here are some ideas to get you started:
   [<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-JoaoM&repo=Janos-Park-Project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF"/>](https://github.com/Dev-JoaoM/Janos-Park-Project)
   [<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-JoaoM&repo=Versionamento-com-Git-e-Github&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF"/>](https://github.com/Dev-JoaoM/Versionamento-com-Git-e-Github)
   [<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-JoaoM&repo=Cursos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=blue&text_color=FFF"/>](https://github.com/Dev-JoaoM/Cursos)
-  
-
-
 
 </div>
 
@@ -73,5 +70,6 @@ Here are some ideas to get you started:
  <a href = "mailto:joaoml.dev@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## 
+
 
 ![Snake Animation](https://github.com/Dev-JoaoM/Dev-JoaoM/blob/output/github-contribution-grid-snake.svg)
