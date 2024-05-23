@@ -1,21 +1,7 @@
-<!--
-**Dev-JoaoM/Dev-JoaoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0528F2&reversal=false&section=header&textBg=false"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br><br>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0528F2&size=40&center=true&vCenter=true&width=1000&lines=Hello+there🖖🏾,+sou+o+João+Marcos;Bem+vindo+ao+meu+perfil!)
-
+<br><br>
 <h2>Sobre mim</h2>
 
   <picture><img align="right" src="https://github.com/Dev-JoaoM/Dev-JoaoM/blob/master/img/octocat-cavaleiro%20galatico.png" width = 170px></picture>
@@ -51,8 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## Ferramentas
-
+## 🛠️ Ferramentas
 
 [![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
@@ -64,12 +49,11 @@ Here are some ideas to get you started:
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green)
 
   
-<h2>📫 Contate-me⤵️</h2>
+## 📫 Contate-me<sub>⤵️</sub>
   <a href="https://web.dio.me/users/joaocarvalho_gfin?tab=skills" target="_blank"><img align="center-midDle" width="35px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaoml-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:joaoml.dev@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-## 
+<!-- ![Snake Animation](https://github.com/Dev-JoaoM/Dev-JoaoM/blob/output/github-contribution-grid-snake.svg) -->
 
-
-![Snake Animation](https://github.com/Dev-JoaoM/Dev-JoaoM/blob/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0528F2&reversal=true&section=footer&textBg=false"/>
