@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0528F2&reversal=false&section=header&textBg=false"/>
 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0528F2&size=40&center=true&vCenter=true&width=1000&lines=Hello+there🖖🏾,+sou+o+João+Marcos;Bem+vindo+ao+meu+perfil!)
 <br><br>
 <h2>Sobre mim</h2>
@@ -9,6 +10,7 @@
   - 🔭 Hoje trabalho com tratamento e análise de dados e com a elaboração de indicadores 
   - 🌱 Estudando Python e SQL
   - 📚 Estudante de Análise e Desenvolvimento de Sistemas - FATEC São Paulo
+  - 💻 Tenho interesse em trabalhar com backend, dados e automações
   - 🤔 Procurando ajuda com Django e Html
   - 🐱‍🚀 Nome do Octocat: Cavaleiro Galactico
   
@@ -55,5 +57,13 @@
  <a href = "mailto:joaoml.dev@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!-- ![Snake Animation](https://github.com/Dev-JoaoM/Dev-JoaoM/blob/output/github-contribution-grid-snake.svg) -->
+
+<!--
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" Albert Einstein
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0528F2&reversal=true&section=footer&textBg=false"/>
