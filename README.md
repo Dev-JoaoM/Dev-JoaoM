@@ -3,14 +3,14 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0528F2&size=40&center=true&vCenter=true&width=1000&lines=Hello+there🖖🏾,+sou+o+João+Marcos;Bem+vindo+ao+meu+perfil!)
 <br><br>
-<h2>Sobre mim</h2>
+<h2>🌟Sobre mim</h2>
 
   <picture><img align="right" src="https://github.com/Dev-JoaoM/Dev-JoaoM/blob/master/img/octocat-cavaleiro%20galatico.png" width = 170px></picture>
   
-  - 🔭 Hoje trabalho com tratamento e análise de dados e com a elaboração de indicadores 
-  - 🌱 Estudando Python e SQL
+  - 💻 Hoje trabalho com tratamento e análise de dados e com a elaboração de indicadores 
+  - 🌱 Estudando Python, Django e SQL
   - 📚 Estudante de Análise e Desenvolvimento de Sistemas - FATEC São Paulo
-  - 💻 Tenho interesse em trabalhar com backend, dados e automações
+  - 🔭 Tenho interesse em trabalhar com backend, dados e automações
   - 🤔 Procurando ajuda com Django e Html
   - 🐱‍🚀 Nome do Octocat: Cavaleiro Galactico
   
@@ -41,16 +41,35 @@
 
 ## 🛠️ Ferramentas
 
-[![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQLite](https://img.shields.io/badge/SQLite-gray?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![Boostrap 5](https://img.shields.io/badge/boostrap_5-000?style=for-the-badge&logo=bootstrap&labelColor=000)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green)
+[![Git](https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=fff)](https://git-scm.com/doc) 
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=plastic&logo=github&logoColor=fff)](https://docs.github.com/)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
-  
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+![Boostrap 5](https://img.shields.io/badge/Boostrap_5-000?style=plastic&logo=bootstrap&labelColor=000)
+![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![Vscode](https://img.shields.io/badge/Vscode-000?style=plastic&logo=visual-studio-code&logoColor=blue)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=green)
+
+
+<!-- Ferramentas Futuras
+![PythonAnywhere](https://img.shields.io/badge/PythonAnyWhere-%232F9FD7.svg?style=plastic&logo=pythonanywhere&logoColor=151515) 
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase) 
+
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+-->
+
 ## 📫 Contate-me<sub>⤵️</sub>
   <a href="https://web.dio.me/users/joaocarvalho_gfin?tab=skills" target="_blank"><img align="center-midDle" width="35px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaoml-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -58,11 +77,11 @@
 
 <!-- ![Snake Animation](https://github.com/Dev-JoaoM/Dev-JoaoM/blob/output/github-contribution-grid-snake.svg) -->
 
-<!--
+<!-- 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" Albert Einstein
+Frase: "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" Albert Einstein
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 -->
 
